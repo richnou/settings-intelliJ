@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File 'D:\git\odfi\ooxoo-core\ooxoo-core\src\test\scala\com\idyria\osi\ooxoo\lib\json\JSONTest.scala [ooxoo-core]'" />
+    <option name="defaultScopeName" value="File 'D:\git\odfi\ooxoo-core\ooxoo-core\src\test\scala\com\idyria\osi\ooxoo\lib\json\JSONTest.scala [ooxoo-core]'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\git\odfi\ooxoo-core\ooxoo-core\src\test\scala\com\idyria\osi\ooxoo\lib\json\JSONTest.scala [ooxoo-core]'" />
   </component>
 </application>
