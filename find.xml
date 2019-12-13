@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'pe-companion'" />
-    <option name="defaultScopeName" value="Module 'pe-companion'" />
-    <option name="SEARCH_SCOPE" value="Module 'pe-companion'" />
+    <option name="customScope" value="Project 'ODFI'" />
+    <option name="defaultScopeName" value="Project 'ODFI'" />
+    <option name="SEARCH_SCOPE" value="Project 'ODFI'" />
   </component>
 </application>
