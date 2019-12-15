@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ODFI'" />
-    <option name="defaultScopeName" value="Project 'ODFI'" />
-    <option name="SEARCH_SCOPE" value="Project 'ODFI'" />
+    <option name="customScope" value="Directory 'D:\git\odfi\indesign\indesign-core [indesign-core]'" />
+    <option name="defaultScopeName" value="Directory 'D:\git\odfi\indesign\indesign-core [indesign-core]'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\git\odfi\indesign\indesign-core [indesign-core]'" />
   </component>
 </application>
