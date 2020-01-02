@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="pep2-svg-dev" type="PLAIN_TEXT" />
+      <mapping ext="options" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
