@@ -4,6 +4,7 @@
       <mapping pattern=".sRunning" type="PLAIN_TEXT" />
       <mapping pattern="pep2-svg-dev" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
+      <removed_mapping pattern="NXP-NTAG213.json" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
