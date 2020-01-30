@@ -2,7 +2,7 @@
   <component name="HydraVersionsCache">
     <option name="latestRelease">
       <CachedArtifactMetadata>
-        <option name="cacheTimestamp" value="1580294836882" />
+        <option name="cacheTimestamp" value="1580376870511" />
         <option name="releaseVersion" value="2.2.0" />
         <option name="repositoryUrl" value="https://repo.triplequote.com/artifactory/libs-release/" />
       </CachedArtifactMetadata>
